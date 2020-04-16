@@ -1,6 +1,6 @@
 package first_git_repo;
 
-public class TestRepo {
+public class TestRepo1 {
 
 	public static void main(String[] args) {
 		
